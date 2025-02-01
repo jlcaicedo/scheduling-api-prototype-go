@@ -10,3 +10,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 ## Abr–Jun 2025 (Docker/CI, hardening, observabilidad y refinamientos)
 
 - Dockerfile/CI, endurecimiento de endpoints, performance/observabilidad y pulido DX.
+- 2025-02-01: Go: project scaffold (cmd/api, internal/...)
