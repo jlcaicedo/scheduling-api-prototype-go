@@ -12,3 +12,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - Dockerfile/CI, endurecimiento de endpoints, performance/observabilidad y pulido DX.
 - 2025-02-01: Go: project scaffold (cmd/api, internal/...)
 - 2025-02-01: net/http: basic mux & routing
+- 2025-02-02: Middleware: bearer auth header parser
