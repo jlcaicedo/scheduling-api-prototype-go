@@ -17,3 +17,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-02-02: Request-ID: context propagation & logger
 - 2025-02-03: JSON: envelope {status,data,error,meta}
 - 2025-02-03: Health endpoint: /health (no auth)
+- 2025-02-06: Schedules: GET /v1/schedules (auth)
