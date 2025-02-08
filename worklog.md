@@ -23,3 +23,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-02-07: httpx: respond helpers (errors, meta)
 - 2025-02-08: Config: env vars (API_ADDR, API_BEARER_TOKEN)
 - 2025-02-08: Logging: structured fields (req_id, method, path)
+- 2025-02-08: Tests: minimal http handlers
