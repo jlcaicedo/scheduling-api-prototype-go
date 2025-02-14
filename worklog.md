@@ -28,3 +28,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-02-09: Docs: README quick-start & curl snippets
 - 2025-02-10: Go: project scaffold (cmd/api, internal/...)
 - 2025-02-14: net/http: basic mux & routing
+- 2025-02-14: Middleware: bearer auth header parser
