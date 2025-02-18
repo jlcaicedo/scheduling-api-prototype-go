@@ -35,3 +35,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-02-16: Health endpoint: /health (no auth)
 - 2025-02-16: Schedules: GET /v1/schedules (auth)
 - 2025-02-18: Schedules: POST /v1/schedules (auth)
+- 2025-02-18: Store: in-memory schedules + IDs
