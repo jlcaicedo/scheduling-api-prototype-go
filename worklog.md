@@ -58,3 +58,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-08: Tests: minimal http handlers
 - 2025-03-08: Swift client: URLSession GET /v1/schedules (demo)
 - 2025-03-08: Docs: README quick-start & curl snippets
+- 2025-03-09: Go: project scaffold (cmd/api, internal/...)
