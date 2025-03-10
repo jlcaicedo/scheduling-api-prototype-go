@@ -62,3 +62,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-09: net/http: basic mux & routing
 - 2025-03-09: Middleware: bearer auth header parser
 - 2025-03-10: Middleware: rate limiting (token bucket in-memory)
+- 2025-03-10: Request-ID: context propagation & logger
