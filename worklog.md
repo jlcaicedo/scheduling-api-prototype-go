@@ -68,3 +68,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-14: Schedules: GET /v1/schedules (auth)
 - 2025-03-15: Schedules: POST /v1/schedules (auth)
 - 2025-03-15: Store: in-memory schedules + IDs
+- 2025-03-16: httpx: respond helpers (errors, meta)
