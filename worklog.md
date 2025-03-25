@@ -80,3 +80,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-21: Middleware: rate limiting (token bucket in-memory)
 - 2025-03-24: Request-ID: context propagation & logger
 - 2025-03-24: JSON: envelope {status,data,error,meta}
+- 2025-03-25: Health endpoint: /health (no auth)
