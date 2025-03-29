@@ -88,3 +88,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-27: Config: env vars (API_ADDR, API_BEARER_TOKEN)
 - 2025-03-28: Logging: structured fields (req_id, method, path)
 - 2025-03-29: Tests: minimal http handlers
+- 2025-03-29: Swift client: URLSession GET /v1/schedules (demo)
