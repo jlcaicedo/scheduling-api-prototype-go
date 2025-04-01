@@ -6,3 +6,7 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 ## Feb–Mar 2025 (base REST, middleware, JSON & Swift demo)
 
 - Arranque con net/http, middleware (auth + rate limit), envelope JSON, Request-ID, endpoints health/schedules y cliente Swift.
+
+## Abr–Jun 2025 (Docker/CI, hardening, observabilidad y refinamientos)
+
+- Dockerfile/CI, endurecimiento de endpoints, performance/observabilidad y pulido DX.
