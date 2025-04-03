@@ -92,3 +92,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-03-30: Docs: README quick-start & curl snippets
 - 2025-03-30: Go: project scaffold (cmd/api, internal/...)
 - 2025-03-31: net/http: basic mux & routing
+- 2025-04-03: Dockerfile: multistage (Go 1.22+) & distroless
