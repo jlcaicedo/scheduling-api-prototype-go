@@ -100,3 +100,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-04-05: Request-ID: fallback generator (uuid)
 - 2025-04-06: Schedules: input validation & RFC3339 time
 - 2025-04-06: Schedules: list pagination stub
+- 2025-04-07: HTTP: timeouts & server tune (ReadHeaderTimeout)
