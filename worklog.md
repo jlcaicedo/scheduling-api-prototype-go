@@ -109,3 +109,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-04-11: DX: dev env vars & sample .env
 - 2025-04-12: CI: cache go build & modules
 - 2025-04-12: Dockerfile: multistage (Go 1.22+) & distroless
+- 2025-04-13: CI: Go build/test workflow (actions)
