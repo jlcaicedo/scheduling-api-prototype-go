@@ -137,3 +137,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-05-01: Observability: basic access log format
 - 2025-05-02: Tests: handler table tests
 - 2025-05-02: Docs: API examples (curl + jq)
+- 2025-05-04: Security: headers & no exposure server banner
