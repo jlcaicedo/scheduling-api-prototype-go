@@ -181,3 +181,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-05-27: Schedules: input validation & RFC3339 time
 - 2025-05-28: Schedules: list pagination stub
 - 2025-05-31: HTTP: timeouts & server tune (ReadHeaderTimeout)
+- 2025-05-31: Perf: JSON encoding tweaks
