@@ -192,3 +192,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-04: CI: Go build/test workflow (actions)
 - 2025-06-05: Makefile: build, run, test, lint targets
 - 2025-06-06: Rate limiting: tune defaults (5 rps, burst 10)
+- 2025-06-07: Auth: better error messages & 401/403 rules
