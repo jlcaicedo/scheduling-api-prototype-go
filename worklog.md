@@ -194,3 +194,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-06: Rate limiting: tune defaults (5 rps, burst 10)
 - 2025-06-07: Auth: better error messages & 401/403 rules
 - 2025-06-07: Request-ID: fallback generator (uuid)
+- 2025-06-08: Schedules: input validation & RFC3339 time
