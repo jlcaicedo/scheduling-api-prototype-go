@@ -202,3 +202,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-11: Tests: handler table tests
 - 2025-06-11: Docs: API examples (curl + jq)
 - 2025-06-12: Security: headers & no exposure server banner
+- 2025-06-13: DX: dev env vars & sample .env
