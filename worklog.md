@@ -204,3 +204,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-12: Security: headers & no exposure server banner
 - 2025-06-13: DX: dev env vars & sample .env
 - 2025-06-13: CI: cache go build & modules
+- 2025-06-15: Dockerfile: multistage (Go 1.22+) & distroless
