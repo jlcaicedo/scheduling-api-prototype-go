@@ -214,3 +214,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-18: Schedules: list pagination stub
 - 2025-06-19: HTTP: timeouts & server tune (ReadHeaderTimeout)
 - 2025-06-20: Perf: JSON encoding tweaks
+- 2025-06-21: Observability: basic access log format
