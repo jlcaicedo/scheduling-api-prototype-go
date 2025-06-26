@@ -222,3 +222,4 @@ Registro de trabajo del prototipo REST en Go (net/http), con bearer auth, rate l
 - 2025-06-23: CI: cache go build & modules
 - 2025-06-25: Dockerfile: multistage (Go 1.22+) & distroless
 - 2025-06-25: CI: Go build/test workflow (actions)
+- 2025-06-26: Makefile: build, run, test, lint targets
